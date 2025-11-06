@@ -1,0 +1,5 @@
+{
+  "name": "PRR Formal System Explorer",
+  "description": "An interactive web application displaying the computational implementation and mathematical mappings of the Principle of Radical Recursivity (PRR) as described in the research paper.",
+  "requestFramePermissions": []
+}
